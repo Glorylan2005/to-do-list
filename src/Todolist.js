@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import checksign from './check.jpg';
-import uncheck from './uncheck.jpg';
+
 
 export class Todolist extends Component {
 
