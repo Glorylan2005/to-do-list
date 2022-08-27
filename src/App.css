@@ -115,6 +115,9 @@ input {
     li {
       font-size: 14px;
     }
+     .imgcheck {
+      width: 10px;
+    }
   }
 
   @media all and (max-width: 376px) {
@@ -123,7 +126,7 @@ input {
       margin-bottom: 5px;
     }
     .imgcheck {
-      width: 16px;
+      width: 10px;
     }
     .delete {
       margin-top: 20px;
