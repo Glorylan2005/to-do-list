@@ -6,7 +6,7 @@ body {
   background-image: url("./notebook.jpg");
   height: 300vh;
   background-size: cover;
-  background-position: center top;
+  
   display: flex;
   flex-direction: column;
   
