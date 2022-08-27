@@ -74,6 +74,7 @@ input {
 @media all and (max-width: 940px) {
   ul {
     margin-top: 40px;
+    width: 70%;
   }
   .App {
     height: 100vh;
