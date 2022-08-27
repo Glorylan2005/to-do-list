@@ -136,6 +136,9 @@ input {
      .imgcheck {
       width: 16px;
     }
+     .addbtn {
+    margin-top: 15px;
+    }
   }
 
   @media all and (max-width: 376px) {
