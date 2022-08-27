@@ -110,7 +110,6 @@ input {
   @media all and (max-width: 540px) {
     .App {
       width: 100vw;
-      background-repeat: repeat;
     }
     h1 {
       font-size: 30px;
