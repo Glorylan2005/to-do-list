@@ -103,17 +103,17 @@ input {
       height: 90vh;
     }
     h1 {
-      font-size: 40px;
+      font-size: 30px;
     }
     input {
-      font-size: 18px;
+      font-size: 16px;
       padding: 10px;
     }
     .btn {
       font-size: 18px;
     }
     li {
-      font-size: 14px;
+      font-size: 18px;
     }
      .imgcheck {
       width: 16px;
