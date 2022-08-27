@@ -105,7 +105,9 @@ input {
     margin: 0;
     padding: 3px;
   }
-}
+  .add {
+    margin-top: 30px;
+  }
 
   @media all and (max-width: 540px) {
     .App {
