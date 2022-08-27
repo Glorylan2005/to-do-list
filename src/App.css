@@ -118,7 +118,7 @@ input {
 
   @media all and (max-width: 375px) {
     h1 {
-      font-size: 24px;
+      font-size: 18px;
     }
     .imgcheck {
       width: 16px;
