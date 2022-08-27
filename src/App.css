@@ -110,7 +110,9 @@ input {
     margin: 0;
     padding: 3px;
   }
-  
+  .addbtn {
+    margin-top: 20px;
+  }
   .delete {
     margin-top:5px;
   }
