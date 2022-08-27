@@ -110,7 +110,7 @@ input {
   @media all and (max-width: 540px) {
     .App {
       height: 100vh;
-      background-position: center top;
+      width: 100vw;
     }
     h1 {
       font-size: 30px;
