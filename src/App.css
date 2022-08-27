@@ -93,6 +93,7 @@ input {
   input {
     margin-top: 5px;
     width: 70%;
+    margin-bottom: 50px;
   }
   .btn {
     width: 50%;
@@ -104,9 +105,6 @@ input {
     font-size: 20px;
     margin: 0;
     padding: 3px;
-  }
-  .add {
-    margin-top: 60px;
   }
 
   @media all and (max-width: 540px) {
