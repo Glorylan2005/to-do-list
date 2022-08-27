@@ -113,6 +113,9 @@ input {
     .btn {
       font-size: 18px;
     }
+    ul {
+    margin-top: 10px;
+  }
     li {
       font-size: 18px;
     }
