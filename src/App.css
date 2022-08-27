@@ -15,7 +15,7 @@ h1 {
   font-size: 100px;
   font-family: 'Permanent Marker', cursive;
   margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 .container {
   display: flex;
