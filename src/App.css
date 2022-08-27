@@ -3,7 +3,7 @@ body {
 }
 .App {
   background-image: url("./notebook.jpg");
-  height: 200vh;
+  height: 250vh;
   background-size: cover;
   background-position: center top;
   display: flex;
