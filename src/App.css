@@ -74,7 +74,11 @@ input {
 .imagepen {
   margin-top: 80px;
 }
-
+@media all and (max-width: 1024px) {
+  .addbtn {
+    margin-top: 40px;
+  }
+}
 
 @media all and (max-width: 940px) {
   ul {
@@ -106,9 +110,7 @@ input {
     margin: 0;
     padding: 3px;
   }
-  .addbtn {
-    margin-top: 40px;
-  }
+  
   .delete {
     margin-top:5px;
   }
