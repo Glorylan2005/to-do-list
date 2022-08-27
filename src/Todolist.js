@@ -52,7 +52,7 @@ export class Todolist extends Component {
                     value={this.state.userInput} />
                 </div>
 
-                <div className='container'>
+                <div className='container addbtn'>
                 <button onClick={()=>this.addItem (this.state.userInput)} className="btn add">Add</button>
                 </div>
 
