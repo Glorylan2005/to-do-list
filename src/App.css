@@ -109,6 +109,9 @@ input {
   .addbtn {
     margin-top: 40px;
   }
+  .delete {
+    margin-top:5px;
+  }
 }
 
   @media all and (max-width: 540px) {
