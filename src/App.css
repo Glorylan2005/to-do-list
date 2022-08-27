@@ -97,6 +97,9 @@ input {
   .btn {
     width: 50%;
   }
+   .imgcheck {
+      width: 20px;
+    }
   li {
     font-size: 20px;
     margin: 0;
