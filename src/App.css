@@ -159,4 +159,8 @@ input {
     li {
       font-size: 14px;
     }
+    input {
+      font-size: 12px;
+      padding: 5px;
+    }
   }
