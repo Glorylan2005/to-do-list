@@ -144,4 +144,7 @@ input {
       margin-top: 20px;
       width: 54%;
     }
+    li {
+      font-size: 14px;
+    }
   }
