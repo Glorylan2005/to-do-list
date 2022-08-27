@@ -58,7 +58,7 @@ li {
   background: rgb(165, 87, 87) radial-gradient(150% 100% at 50% 5px, rgba(255,255,255,.2), rgba(0,0,0,0));
   box-shadow: inset rgba(0,0,0,.6) 0 -2px 5px, inset rgba(252,255,255,.7) 0 2px 5px, rgba(0,0,0,.8) 0 2px 5px -1px;
   border-radius: 5px;
-  margin-top: 40px;
+  margin-top: 10px;
   margin-bottom: 5px;  
 }
 input {
