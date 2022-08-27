@@ -106,7 +106,7 @@ input {
 
   @media all and (max-width: 540px) {
     .App {
-      height: 90vh;
+      height: 100vh;
     }
     h1 {
       font-size: 30px;
