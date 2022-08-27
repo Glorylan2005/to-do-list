@@ -59,7 +59,7 @@ export class Todolist extends Component {
                 <div className='container'>
                 <ul>
                     {this.state.todoList.map ((item, index)=>(
-                    <li onClick={this.crossedWord} key = {index}><img className="imgcheck" src={checksign} alt="check" width='35px' />{item}</li>
+                    <span><li onClick={this.crossedWord} key = {index}><img className="imgcheck" src={checksign} alt="check" width='35px' />{item}</li></span>
                     ))}
                 </ul>
                 </div>
